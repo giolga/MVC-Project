@@ -36,6 +36,7 @@ namespace MyFirstMVCApp.Controllers
 
         public IActionResult Image()
         {
+            
             return View(model: images);
         }
 

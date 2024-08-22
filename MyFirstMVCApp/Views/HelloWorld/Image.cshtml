@@ -3,10 +3,13 @@
 <h1>Top 10 images of dogs</h1>
 <p>This page shows us lovely dogs</p>
 
-<div class="d-flex flex-row flex-wrap gap-3 w-100 p-3 ">
-    @foreach (var img in @Model)
+<div class="d-flex flex-row flex-wrap gap-3 w-100 p-3 bg-image hover-overlay hover-zoom hover-shadow ripple ">
+
+    @foreach (var im in @Model)
     {
-        <img src="@img" alt="Lovely Dog" style="max-width:40%; height:auto;" />
+        <div class="image-container">
+            <img src="@im" alt="Lovely Dog" class="img-fluid hover-image" />
+        </div>
     }
 
 </div>

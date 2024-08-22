@@ -16,3 +16,20 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.image-container {
+    display: flex;
+    position: relative;
+    width: 40%;
+}
+
+.hover-image {
+    transition: transform 0.3s ease-in-out;
+    width: 100%; /* Ensures the image fits within its container */
+    height: auto;
+}
+
+.image-container:hover .hover-image {
+    transform: scale(1.05); /* This scales the image by 10% on hover */
+    border-radius: 10px;
+}

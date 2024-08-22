@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\GioLGA\\source\\repos\\MyFirstMVCApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4BD1D82-3762-4D6F-B6CE-432009FBF053}|MyFirstMVCApp\\MyFirstMVCApp.csproj|c:\\users\\giolga\\source\\repos\\myfirstmvcapp\\myfirstmvcapp\\views\\helloworld\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4BD1D82-3762-4D6F-B6CE-432009FBF053}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\views\\helloworld\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F4BD1D82-3762-4D6F-B6CE-432009FBF053}|MyFirstMVCApp\\MyFirstMVCApp.csproj|c:\\users\\giolga\\source\\repos\\myfirstmvcapp\\myfirstmvcapp\\views\\helloworld\\image.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BD1D82-3762-4D6F-B6CE-432009FBF053}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\views\\helloworld\\image.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4BD1D82-3762-4D6F-B6CE-432009FBF053}|MyFirstMVCApp\\MyFirstMVCApp.csproj|c:\\users\\giolga\\source\\repos\\myfirstmvcapp\\myfirstmvcapp\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4BD1D82-3762-4D6F-B6CE-432009FBF053}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4BD1D82-3762-4D6F-B6CE-432009FBF053}|MyFirstMVCApp\\MyFirstMVCApp.csproj|c:\\users\\giolga\\source\\repos\\myfirstmvcapp\\myfirstmvcapp\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4BD1D82-3762-4D6F-B6CE-432009FBF053}|MyFirstMVCApp\\MyFirstMVCApp.csproj|solutionrelative:myfirstmvcapp\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +17,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 298,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 348,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyFirstMVCApp\\Views\\HelloWorld\\Index.cshtml",
-              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\HelloWorld\\Index.cshtml",
-              "RelativeToolTip": "MyFirstMVCApp\\Views\\HelloWorld\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T18:50:58.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\HelloWorld\\Create.cshtml",
-              "RelativeDocumentMoniker": "MyFirstMVCApp\\Views\\HelloWorld\\Create.cshtml",
-              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\HelloWorld\\Create.cshtml",
-              "RelativeToolTip": "MyFirstMVCApp\\Views\\HelloWorld\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Title": "Image.cshtml",
+              "DocumentMoniker": "C:\\Users\\GioLGA\\source\\repos\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\HelloWorld\\Image.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVCApp\\Views\\HelloWorld\\Image.cshtml",
+              "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\MyFirstMVCApp\\MyFirstMVCApp\\Views\\HelloWorld\\Image.cshtml",
+              "RelativeToolTip": "MyFirstMVCApp\\Views\\HelloWorld\\Image.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T18:19:17.937Z",
+              "WhenOpened": "2024-08-22T18:33:58.466Z",
               "EditorCaption": ""
             },
             {
@@ -66,10 +49,20 @@
               "RelativeDocumentMoniker": "MyFirstMVCApp\\Controllers\\HelloWorldController.cs",
               "ToolTip": "C:\\Users\\GioLGA\\source\\repos\\MyFirstMVCApp\\MyFirstMVCApp\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "MyFirstMVCApp\\Controllers\\HelloWorldController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T17:48:06.081Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

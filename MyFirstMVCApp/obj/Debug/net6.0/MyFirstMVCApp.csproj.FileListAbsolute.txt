@@ -28,3 +28,4 @@ C:\Users\GioLGA\source\repos\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\net6.0\refint
 C:\Users\GioLGA\source\repos\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\net6.0\MyFirstMVCApp.pdb
 C:\Users\GioLGA\source\repos\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\net6.0\MyFirstMVCApp.genruntimeconfig.cache
 C:\Users\GioLGA\source\repos\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\net6.0\ref\MyFirstMVCApp.dll
+C:\Users\GioLGA\source\repos\MyFirstMVCApp\MyFirstMVCApp\obj\Debug\net6.0\MyFirstMVCApp.sourcelink.json

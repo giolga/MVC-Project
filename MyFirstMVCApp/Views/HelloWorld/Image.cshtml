@@ -1,0 +1,13 @@
+﻿@model List<string>
+
+<h1>Top 10 images of dogs</h1>
+<p>This page shows us lovely dogs</p>
+
+<div class="d-flex flex-row flex-wrap gap-3 w-100 p-3 ">
+    @foreach (var img in @Model)
+    {
+        <img src="@img" alt="Lovely Dog" style="max-width:40%; height:auto;" />
+    }
+
+</div>
+
